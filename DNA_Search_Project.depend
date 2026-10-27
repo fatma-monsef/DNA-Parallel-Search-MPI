@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1793135455 source:d:\dna_search_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<mpi.h>
+
+1685560424 c:\program files (x86)\microsoft sdks\mpi\include\mpi.h
+	<stdint.h>
+	<sal.h>
+	<stdint.h>
+
